@@ -162,3 +162,7 @@ cython_debug/
 # etc
 client_secret.json
 sheet_id.py
+bot_token.py
+
+schedules1.png
+schedules2.png
