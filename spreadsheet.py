@@ -1,9 +1,6 @@
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import sheet_id
-from pprint import pprint
-
-from datetime import datetime
 
 # 認証情報
 def connect_gspread():
