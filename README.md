@@ -1,0 +1,5 @@
+requirements.txt置いてあるけど多分使う必要のないpackageがあるはず
+
+お試しついでにこのRepositoryを作って更新し続けただけなので作法はなってないと思う
+
+英語書けなくてごめんな、今度からcommitのcommentも日本語で書こうかな（readmeとは？）
